@@ -1,9 +1,5 @@
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=shohanurahman16&label=Profile%20views&color=0e75b6&style=flat](https://github.com/shahadatjuton)" alt="
-shahadatjuton" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[https://github-profile-trophy.vercel.app/?username=
-shahadatjuton](https://github.com/shahadatjuton)" alt="
-shahadatjuton" /></a> </p>
+<p align="left"> <a href="https://github.com/shahadatjuton"></a> Shahadat Hossain </p>
 
 # 💫About Me :
 💻 Working with React, Laravel & Vue </br>

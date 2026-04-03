@@ -1,10 +1,9 @@
 
-<p align="left"> <a href="https://github.com/shahadatjuton"></a> Shahadat Hossain </p>
+<h1 align="center"> <a href="https://github.com/shahadatjuton"></a> Shahadat Hossain </h1>
 
 # 💫About Me :
-💻 Working with React, Laravel & Vue </br>
-📝 Highly hyped with NODE.js  </br>
 🕵 Full Stack Developer  </br>
+💻 Working with React, Laravel & Vue </br>
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/shahadat.juton) 

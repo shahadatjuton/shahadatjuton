@@ -2,7 +2,9 @@
 
 ### Backend Engineer | Laravel Developer | API Specialist | Cyber Security MSc Student
 
-I'm a results-driven Backend Engineer based in :contentReference[oaicite:0]{index=0} with **4+ years of professional experience** building scalable web applications, REST APIs, e-commerce systems, and production-ready backend solutions. I specialize in **PHP, Laravel, MySQL, Redis, Docker, and system performance optimization**. Currently pursuing an MSc in Cyber Security while expanding expertise in secure software systems and cloud security. :contentReference[oaicite:1]{index=1}
+I'm a results-driven Backend Engineer based in Berlin, Germany with 4+ years of professional experience building scalable web applications, REST APIs, e-commerce systems, and production-ready backend solutions.
+
+I specialize in **PHP, Laravel, MySQL, Redis, Docker, and system performance optimization**. Currently pursuing an MSc in Cyber Security while expanding expertise in secure software systems and cloud security.
 
 ---
 
@@ -10,7 +12,7 @@ I'm a results-driven Backend Engineer based in :contentReference[oaicite:0]{inde
 
 - 🔧 Backend-focused engineer with strong Laravel ecosystem experience  
 - 🌍 Based in Berlin and open to international opportunities  
-- ⚡ Experienced in scaling applications serving **10K+ active users**  
+- ⚡ Experienced in scaling applications serving 10K+ active users  
 - 🔐 Interested in secure software engineering & cybersecurity  
 - 🤝 Strong collaborator with Agile / remote team experience  
 - 📚 Currently improving German language skills  
@@ -20,60 +22,54 @@ I'm a results-driven Backend Engineer based in :contentReference[oaicite:0]{inde
 ## 🛠️ Tech Stack
 
 ### Backend
-- PHP  
-- Laravel  
-- Python  
-- Django  
-- REST APIs  
-- OOP / MVC  
+- PHP
+- Laravel
+- Python
+- Django
+- REST APIs
+- OOP / MVC
 
 ### Database
-- MySQL  
-- Query Optimization  
-- Indexing  
-- Database Design  
+- MySQL
+- Query Optimization
+- Indexing
 
 ### DevOps / Tools
-- Docker  
-- Linux  
-- Git  
-- CI/CD  
-- Redis  
-- Cron Jobs  
+- Docker
+- Linux
+- Git
+- CI/CD
+- Redis
+- Cron Jobs
 
 ### Frontend
-- JavaScript  
-- Vue.js 2/3  
-- React (Basic)  
-- HTML5 / CSS3 / Bootstrap  
+- JavaScript
+- Vue.js
+- React (Basic)
+- HTML / CSS / Bootstrap
 
 ### Integrations
-- Stripe  
-- PayPal  
-- Firebase  
-- SendGrid  
-- AWS S3  
-- OAuth / JWT  
-
-:contentReference[oaicite:2]{index=2}
+- Stripe
+- PayPal
+- Firebase
+- SendGrid
+- AWS S3
+- OAuth / JWT
 
 ---
 
 ## 💼 Professional Experience
 
-### Software Engineer — DATA DSS  
-📍 Remote / Full-Time  
+### Software Engineer — DATA DSS
 📅 Sep 2020 – Jul 2025
 
-- Developed and maintained a **multi-vendor e-commerce platform**
-- Built scalable APIs for web and mobile applications
+- Developed and maintained multi-vendor e-commerce platform
+- Built scalable APIs for web and mobile apps
 - Implemented JWT & OAuth authentication systems
-- Integrated payment gateways (Stripe, PayPal)
-- Used Redis queues and cron jobs for async processing
-- Improved database performance by **40%**
-- Led small teams of **10–12 members**
-
-:contentReference[oaicite:3]{index=3}
+- Integrated payment gateways
+- Used Redis queues and cron jobs
+- Improved database performance by 40%
+- Led teams of 10–12 members
 
 ---
 
@@ -88,21 +84,17 @@ Employee, attendance, payroll, and project management system.
 ### 🐍 Django CRUD Application
 Practice project using Django with validation and API endpoints.
 
-:contentReference[oaicite:4]{index=4}
-
 ---
 
 ## 🎓 Education
 
-### MSc Cyber Security  
-Arden University, :contentReference[oaicite:5]{index=5}  
+### MSc Cyber Security
+Arden University, Berlin  
 2022 – Present
 
-### BSc Business Information Technology  
-:contentReference[oaicite:6]{index=6}  
-Graduated with First Class Honors
-
-:contentReference[oaicite:7]{index=7}
+### BSc Business Information Technology
+University of Greenwich, UK  
+First Class Honors
 
 ---
 
@@ -111,20 +103,16 @@ Graduated with First Class Honors
 - English — C1 Fluent  
 - German — A1 (Improving toward B1)
 
-:contentReference[oaicite:8]{index=8}
-
 ---
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: www.linkedin.com/in/shahadat-hossain-juton  
-- 💻 GitHub: github.com/shahadatjuton  
-- 📧 Email: shahadatjuton@gmail.com  
+- 💼 LinkedIn: https://linkedin.com/in/shahadat-hossain-juton
+- 💻 GitHub: https://github.com/shahadatjuton
+- 📧 Email: shahadatjuton@gmail.com
 
 ---
 
 ## ⚡ Motto
 
 > Build scalable systems. Write clean code. Keep learning.
-
----

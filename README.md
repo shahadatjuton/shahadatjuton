@@ -90,7 +90,7 @@ Practice project using Django with validation and API endpoints.
 
 ### MSc Cyber Security
 Arden University, Berlin  
-2022 – Present
+2025 – Present
 
 ### BSc Business Information Technology
 University of Greenwich, UK  
